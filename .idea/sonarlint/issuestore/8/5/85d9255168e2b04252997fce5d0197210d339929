@@ -1,0 +1,10 @@
+
+Qkotlin:S1172w"2Use "_" instead of these unused lambda parameters.(á†ß8ôØ£äĞ1
+Wkotlin:S11728"8Use "_" instead of this unused lambda parameter "value".(§åû8ôØ£äĞ1
+Wkotlin:S1172@"8Use "_" instead of this unused lambda parameter "value".(§åû8ôØ£äĞ1
+Pkotlin:S6619¹"0Remove this useless null check, it always fails.(ì¢ì§8÷Ø£äĞ1
+pkotlin:S1175"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(°…²@8üØ£äĞ1
+pkotlin:S117="SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(°…²@8üØ£äĞ1
+Bkotlin:S1874P"#Deprecated code should not be used.(ëÄ§‘8Ù£äĞ1
+Ckotlin:S1874"#Deprecated code should not be used.(–ö„ª8Ù£äĞ1
+Nkotlin:S1066«".Merge this "if" statement with the nested one.(ËÄÒ‚8–Ù£äĞ1

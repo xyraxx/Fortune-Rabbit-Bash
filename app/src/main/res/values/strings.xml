@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fortune Rabbit Bash</string>
+    <string name="ads_id">ca-app-pub-9426884596605370~7253458425</string>
+    <string name="ads_small">ca-app-pub-9426884596605370/4243355542</string>
+
+    <string name="empty">-</string>
+    <string name="time">Time: 00:%1$s</string>
+    <string name="bestScore">Best Score:</string>
+    <string name="play">PLAY</string>
+    <string name="rulesTitle">Rules of the game:</string>
+    <string name="rulesText">The goal is to hit more \nFortune Rabbits \nto exceed the best score.</string>
+    <string name="score">Score: %1$s</string>
+    <string name="scoreTitle">Score:</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+</resources>

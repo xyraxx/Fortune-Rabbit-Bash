@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150474525476",
+    "project_id": "madproject-374e2",
+    "storage_bucket": "madproject-374e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150474525476:android:295840cb9c7ab67bd201b1",
+        "android_client_info": {
+          "package_name": "dev.fs.mad.game11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjoZ4sb811XCaRedzoNsCSQIN2mDQAC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
